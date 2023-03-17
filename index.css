@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px white;
+    font-style: italic;
+}
+
+h3{
+   color: yellow;
+}
+h2{
+    color: crimson;
+}
+
+p{
+    color: white;
+}
+.p1{
+    color: crimson;;
+}
+pre{
+    color:aqua;
+    font-size: x-large;
+}
+
+.Q{
+   color: thistle;
+   text-decoration: underline;
+}
